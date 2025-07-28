@@ -71,6 +71,3 @@ The container will automatically:
 3.  Generate a corresponding `.json` file in the `/app/output` directory for each input PDF.
 
 <!-- end list -->
-
-```
-```
